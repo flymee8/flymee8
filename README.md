@@ -10,4 +10,4 @@ Hi! I'm a web application engineer in Japan. 🍦
 
 ## Contributions :octocat:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=flymee8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=flymee8&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
