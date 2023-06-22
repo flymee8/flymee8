@@ -1,5 +1,8 @@
+🔵 My Profile
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+Hi! I'm a web application engineer in Japan. 
+
+[![My Skills](https://skillicons.dev/icons?i=aws,typescript,react,vue,go,python&perline=3)](https://skillicons.dev)
 
 
 <!--
