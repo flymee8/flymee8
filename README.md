@@ -9,3 +9,5 @@ Hi! I'm a web application engineer in Japan. 🍦
 [![My Skills](https://skillicons.dev/icons?i=aws,ts,react,vue,nextjs,nuxtjs,nestjs,vite,nodejs,graphql,prisma,go,python,vscode,postgres,github,docker&perline=6)](https://skillicons.dev)
 
 ## Contributions :octocat:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=flymee8)](https://github.com/ryo-ma/github-profile-trophy)
