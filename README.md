@@ -1,7 +1,5 @@
 # 🔵 My Profile
 
-![](https://komarev.com/ghpvc/?username=flymee8)
-
 Hi! I'm a web application engineer in Japan. 🍦
 
 ## Skills 💻
